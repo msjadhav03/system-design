@@ -1,7 +1,6 @@
 # System Design
-System Design
 
-Content
+# Content
 1. [URL Shortening Service](#DesignaURLShorteningService)
 2. [Social Media Feed](#socialMedia)
 3. [Distributed Cache](#distributedCache)
